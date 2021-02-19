@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tqxk01.github.io/</id>
     <title>tqxk的博客</title>
-    <updated>2021-02-19T07:00:21.324Z</updated>
+    <updated>2021-02-19T07:14:09.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tqxk01.github.io/"/>
     <link rel="self" href="https://tqxk01.github.io/atom.xml"/>
@@ -11,14 +11,12 @@
     <icon>https://tqxk01.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, tqxk的博客</rights>
     <entry>
-        <title type="html"><![CDATA[test]]></title>
-        <id>https://tqxk01.github.io/post/test/</id>
-        <link href="https://tqxk01.github.io/post/test/">
+        <title type="html"><![CDATA[birth]]></title>
+        <id>https://tqxk01.github.io/post/birth/</id>
+        <link href="https://tqxk01.github.io/post/birth/">
         </link>
-        <updated>2021-02-19T04:44:19.000Z</updated>
-        <content type="html"><![CDATA[<p>test</p>
-<pre><code>                                                                                                            2021/2/19
-                                                                                                            🙂🙂🙂</code></pre>
+        <updated>2021-02-19T07:12:01.000Z</updated>
+        <content type="html"><![CDATA[<p>hello word -----2021/2/19</p>
 ]]></content>
     </entry>
 </feed>
